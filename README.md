@@ -10,7 +10,7 @@
 - ⚡ Fun fact: i like parakeets
 <div>
   <a href="https://sites.google.com/aluno.aebenfica.pt/portefolio-miguel-mendes/inicio">
-    <img height="180em" src="![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)"/>
-    <img height="180em" src=""/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PiguelitoMiriquito&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PiguelitoMiriquito&layout=compact)](https://github.com/anuraghazra/github-readme-stats)"/>
 <div>
   
